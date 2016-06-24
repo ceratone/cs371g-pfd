@@ -19,6 +19,8 @@ using namespace std;
 // pfd_read
 // ------------
 
+int start();
+
 /**
  * read two ints from r into i an j
  * @param r an istream

@@ -1,2 +1,5 @@
 Doxyfile*
 *.tmp
+.nfs*
+SavedCode.txt
+*.gcno
