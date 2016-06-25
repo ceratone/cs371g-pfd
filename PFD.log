@@ -1,3 +1,9 @@
+commit 6ff6f6a03112da767b2b2faaa60da9025fefcdae
+Author: Darya Mylius <daryam@cs.utexas.edu>
+Date:   Fri Jun 24 19:42:42 2016 -0500
+
+    unit and acceptance tests finished
+
 commit a95090f8b062ed13ea132acad95cecbc46a000ac
 Author: Darya Mylius <daryam@cs.utexas.edu>
 Date:   Thu Jun 23 21:10:51 2016 -0500

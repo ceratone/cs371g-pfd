@@ -11,8 +11,8 @@
 
 #include <iostream> // istream, ostream
 #include <sstream>
-#include <string>   // string
-#include <utility>  // pair
+#include <string>  // string
+#include <utility> // pair
 #include <list>
 
 using namespace std;
