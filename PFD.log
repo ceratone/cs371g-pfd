@@ -1,3 +1,9 @@
+commit a95090f8b062ed13ea132acad95cecbc46a000ac
+Author: Darya Mylius <daryam@cs.utexas.edu>
+Date:   Thu Jun 23 21:10:51 2016 -0500
+
+    optimized implementation passing on Sphere
+
 commit a600a2808be498938e3fd428b8ba9b9b8b54bb5d
 Author: Darya Mylius <daryam@cs.utexas.edu>
 Date:   Thu Jun 23 12:35:21 2016 -0500

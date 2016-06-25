@@ -1,3 +1,5 @@
+*.gcda
+pfd-tests
 Doxyfile*
 *.tmp
 .nfs*

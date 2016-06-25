@@ -10,16 +10,16 @@
 // --------
 
 #include <iostream> // istream, ostream
+#include <sstream>
 #include <string>   // string
 #include <utility>  // pair
+#include <list>
 
 using namespace std;
 
 // ------------
 // pfd_read
 // ------------
-
-int start();
 
 /**
  * read two ints from r into i an j
@@ -52,7 +52,7 @@ int pfd_eval(int i, int j);
  * @param j the end       of the range, inclusive
  * @param v the max cycle length
  */
-void pfd_print(ostream &w, int i, int j, int v);
+void pfd_print(ostream &w, list<int> &output);
 
 // -------------
 // pfd_solve
