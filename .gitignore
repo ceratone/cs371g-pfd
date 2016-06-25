@@ -1,8 +1,5 @@
 dym*
-*.gcda
 pfd-tests
-Doxyfile*
 *.tmp
 .nfs*
 SavedCode.txt
-*.gcno

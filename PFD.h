@@ -28,7 +28,7 @@ using namespace std;
  * @param j an int
  * @return true if the read is successful, otherwise false
  */
-bool pfd_read(istream &r, int &i, int &j);
+bool pfd_read(istream &r, int &i, bool &rules);
 
 // ------------
 // pfd_eval
